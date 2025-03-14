@@ -78,10 +78,9 @@ function Board() {
   );
 }
 
-// Main App component: You can also include group member details here as comments
+
 export default function App() {
-  // Example: 
-  // Group Members: Your Name (UCID: 12345678), Partner Name (UCID: 87654321)
+   
   return (
     <div className="game">
       <Board />
